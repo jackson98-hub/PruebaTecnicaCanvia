@@ -10,3 +10,5 @@ namespace WebApi.Data
         public static string rutaConexion = "data source=(local)\\SQLEXPRESS; user=sa; password=123456; Initial Catalog =DBPRUEBAS; MultipleActiveResultSets=true";
     }
 }
+
+//PROBANDO GIT PICHON
